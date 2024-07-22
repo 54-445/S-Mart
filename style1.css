@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+
+
+}
+div{
+    background-color: #060606;
+    padding: 20px;
+    
+}
+a{
+    color: pink;
+    margin-left: 200px;
+    
+}
+input{
+    margin-left: 200px;
+}
+#b{
+    padding: 350px;
+    background-color: rgba(230, 230, 234, 0.816);
+}
+#book{
+    background-color: blanchedalmond;
+    margin: -350px;
+}
+marquee{
+    color: yellowgreen;
+    margin: 50px;
+}
+b{
+    margin-left: 200px;
+    padding: 0;
+}
